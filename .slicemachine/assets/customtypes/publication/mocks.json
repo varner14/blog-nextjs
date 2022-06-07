@@ -1,0 +1,15 @@
+{
+  "id": "748ebb4b-efdf-4968-badb-0ea5a0023bfc",
+  "uid": "quis-deserunt-incidunt",
+  "type": "publication",
+  "data": {
+    "title": "Titulo",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Enim sint et quis irure nisi aute occaecat in minim Lorem. Veniam eu sunt duis adipisicing occaecat sint dolor nostrud.",
+        "spans": []
+      }
+    ]
+  }
+}
